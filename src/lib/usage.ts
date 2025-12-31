@@ -1,3 +1,4 @@
+import 'server-only';
 import { RateLimiterPrisma } from 'rate-limiter-flexible';
 import { auth } from '@clerk/nextjs/server';
 
