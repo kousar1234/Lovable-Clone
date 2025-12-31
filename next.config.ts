@@ -2,15 +2,15 @@ import type { NextConfig } from 'next';
 
 const nextConfig: NextConfig = {
   /**
-   * Prevent ESLint from failing production builds.
+   * Explicit Turbopack config (empty on purpose).
+   * This silences the Turbopack warning and allows
+   * us to keep using Webpack with custom loaders.
    */
-  eslint: {
-    ignoreDuringBuilds: true,
-  },
+  turbopack: {},
 
   /**
-   * Workaround for Next.js 15 Flight bundling issue
-   * with packages that ship .d.ts files at runtime.
+   * Required workaround for Node-only packages
+   * like rate-limiter-flexible that ship .d.ts files.
    */
   webpack(config) {
     if (config.module?.rules) {
