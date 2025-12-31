@@ -1,8 +1,8 @@
 <img src="https://cdn.sanity.io/images/0ww2tgdo/production/06f36297ad99b0f4f963aa9c57468c4a4cd3c780-2560x1405.png?w=2000&fit=max&auto=format" alt="Project Banner" />
 
-# 💖 Lovable Clone
+# 💖 Qbpo
 
-Lovable Clone is your AI-powered sidekick 🤖✨ — built for speed 🚀, style 🎨, and total creativity 💡. Whether you’re shipping your next big project, experimenting with wild ideas, or just vibing with some clean code, this stack’s got you. Powered by **Next.js 15** + **React 19** with a fresh **AI-first toolchain**, it’s here to make dev life way smoother and more fun 😎. From auto-generating components to real-time previews and cloud sandboxes, Lovable Clone keeps you in the flow, no matter how chaotic your brain dump is.
+Qbpo is your AI-powered sidekick 🤖✨ — built for speed 🚀, style 🎨, and total creativity 💡. Whether you’re shipping your next big project, experimenting with wild ideas, or just vibing with some clean code, this stack’s got you. Powered by **Next.js 15** + **React 19** with a fresh **AI-first toolchain**, it’s here to make dev life way smoother and more fun 😎. From auto-generating components to real-time previews and cloud sandboxes, Qbpo keeps you in the flow, no matter how chaotic your brain dump is.
 
 ---
 

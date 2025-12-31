@@ -36,7 +36,7 @@ const FragmentCard = ({
       className={cn(
         "flex items-start text-start gap-2 border rounded-lg bg-muted w-fit p-3 hover:bg-secondary transition-colors",
         isActiveFragment &&
-          "bg-primary text-primary-foreground border-primary hover:bg-primary"
+        "bg-primary text-primary-foreground border-primary hover:bg-primary"
       )}
       onClick={() => onFragmentClick(fragment)}
     >
@@ -86,7 +86,7 @@ const AssistantMessage = ({
           width={18}
           className="shrink-0"
         />
-        <span className="text-sm font-medium">Lovable Clone</span>
+        <span className="text-sm font-medium">Qbpo</span>
         <span className="text-xs text-muted-foreground opacity-0 transition-opacity group-hover:opacity-100">
           {format(createdAt, "HH:mm 'on' MMM dd, yyyy")}
         </span>
